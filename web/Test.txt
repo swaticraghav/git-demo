@@ -1,18 +1,9 @@
-Test File
+My first line.
 
-This is the change user has made.
+My second line.
 
-this is the second change user has made.
+My third line.
 
-commit #2
+My fourth line.
 
-commit #3
-
-commit #3 real
-
-change is this.
-
-change is here.
-
-this is another change.
-
+My fifth line.
