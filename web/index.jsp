@@ -1,1 +1,1 @@
-This is index.jsp file.
+This is a JSP file.
